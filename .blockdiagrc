@@ -1,2 +1,8 @@
+[blockdiag]
+fontpath=/usr/share/fonts/NotoSansCJKjp/NotoSansCJKjp-Regular.otf
+[actdiag]
+fontpath=/usr/share/fonts/NotoSansCJKjp/NotoSansCJKjp-Regular.otf
+[seqdiag]
+fontpath=/usr/share/fonts/NotoSansCJKjp/NotoSansCJKjp-Regular.otf
 [nwdiag]
 fontpath=/usr/share/fonts/NotoSansCJKjp/NotoSansCJKjp-Regular.otf
